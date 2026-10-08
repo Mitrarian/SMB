@@ -1,0 +1,24 @@
+name D1a /A:7-144
+color D1a blue
+name D2 /A:145-245
+color D2 lightblue
+name D1b /A:246-387
+color D1b teal
+name D1b_D3_linker /A:388-406
+color D1b_D3_linker grey
+name D3 /A:407-504
+color D3 orange
+name D3_D4_linker /A:505-519
+color D3_D4_linker grey
+name D4_RID /A:520-594
+color D4_RID lightpink
+name D5_TD1 /A:595-822
+color D5_TD1 yellow
+name D5_D6_linker /A: 823-834
+color D5_D6_linker grey
+name D6_TD2 /A:835-1041
+color D6_TD2 magenta
+name D7_Handle /A:1042-1234
+color D7_Handle brown
+
+
